@@ -24,7 +24,7 @@ VSCodeのフォルダに「data」を作成するだけ
 
 # VSCodeのsettings.jsonをいじる
 
-```json
+```js
 {
     "terminal.integrated.env.windows": {
         "PATH": "${workspaceRoot}\\node_modules\\.bin;${execPath}\\..\\..\\node;${env:PATH}",
