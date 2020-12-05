@@ -20,3 +20,22 @@ tailwind: 追い風
 「関心の分離」
 
 https://panda-program.com/posts/recommend-developers-use-tailwind-css
+
+# 調べること
+tailwind
+styled-components
+
+NeDB (会社で使う用)
+DynamoDB
+
+GraphQL
+
+# 使うもの
+react
+next.js
+typescript
+
+jest
+storybook
+
+vercel
