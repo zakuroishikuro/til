@@ -1,18 +1,19 @@
 分類するのもめんどくさい小さくて雑な理解を適当に入れとく
-増えてきたら個別のmdにしたりしなかったりしよう
+増えてきたら個別の md にしたりしなかったりしよう
 
 # tailwind
+
 クラスつけるだけでスタイル適用させるやつ
-ただしBootstrapみたいにボタンとかはなくてシンプルなスタイルだけ適用する
+ただし Bootstrap みたいにボタンとかはなくてシンプルなスタイルだけ適用する
 Utility First
 
 かといってボタンとか一から全部自分で作らなきゃいけないかというとそうでもなくて、
 ドキュメントにサンプルがあるので基本はそれコピペすればいい
 らしい
 
-自分で新しいクラスを作成したい場合はスタイルの中で@applyをつけてけば簡単
+自分で新しいクラスを作成したい場合はスタイルの中で@apply をつけてけば簡単
 
-Material UI等の構築済みツールとの相性はよくない
+Material UI 等の構築済みツールとの相性はよくない
 
 tailwind: 追い風
 
@@ -22,6 +23,7 @@ tailwind: 追い風
 https://panda-program.com/posts/recommend-developers-use-tailwind-css
 
 # 調べること
+
 tailwind
 styled-components
 
@@ -31,11 +33,19 @@ DynamoDB
 GraphQL
 
 # 使うもの
-react
-next.js
-typescript
 
-jest
-storybook
+- next.js (react)
+- typescript
 
-vercel
+- prettier
+- eslint
+
+- jest
+- storybook
+
+- vercel
+
+# vscode extensions
+
+- prettier
+- styled-components
